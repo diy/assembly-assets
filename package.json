@@ -1,0 +1,22 @@
+{
+  "name": "diy-assembly-assets",
+  "version": "0.0.0",
+  "description": "Mutate a transloadit assembly results array in to a diy assets object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diy/assembly-assets"
+  },
+  "author": "Derek Reynolds <drk@diy.org>",
+  "license": "APACHE2",
+  "bugs": {
+    "url": "https://github.com/diy/assembly-assets/issues"
+  },
+  "homepage": "https://github.com/diy/assembly-assets",
+  "devDependencies": {
+    "tap": "^0.4.8"
+  }
+}
